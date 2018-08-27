@@ -1,0 +1,8 @@
+Credentials cache: API:E7F868F0-7DE7-48EB-A09E-9B8D6F53B2B7
+        Principal: tguedes@42.FR
+
+  Issued                Expires               Principal
+Aug  1 10:25:15 2018  Aug  8 10:25:15 2018  krbtgt/42.FR@42.FR
+Aug  1 10:25:17 2018  Aug  8 10:25:15 2018  ldap/ldap-proxy.42.fr@42.FR
+Aug  1 10:25:17 2018  Aug  8 10:25:15 2018  HTTP/student-storage-2.42.fr@42.FR
+Aug  1 10:33:11 2018  Aug  8 10:25:15 2018  host/vgs-fn1.42.fr@42.FR
